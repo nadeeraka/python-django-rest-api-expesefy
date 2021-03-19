@@ -39,7 +39,7 @@ django-environ==0.4.5
 django-extensions==2.2.5
 django-filter==2.2.0
 django-pandas==0.6.1
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 drf-aggregates==0.0.12
 entrypoints==0.3
