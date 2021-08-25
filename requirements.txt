@@ -138,7 +138,7 @@ sshtunnel==0.1.4
 system-service==0.3
 systemd-python==234
 tensorboard==1.14.0
-tensorflow==1.15.2
+tensorflow==2.5.1
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 Twisted==20.3.0
